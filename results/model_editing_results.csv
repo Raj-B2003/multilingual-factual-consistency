@@ -1,0 +1,57 @@
+method,edit_number,case_id,subject,prompt,target_true,target_new,model_answer,raw_generation,exact_match,levenshtein_ratio,success_0_80
+ROME,1,0,Danielle Darrieux,The mother tongue of {} is,French,English,"{}""","The mother tongue of {} is {}"".
+
+The mother tongue of {} is {}.",False,0.0,False
+ROME,2,1,Edwin of Northumbria,The official religion of {} is,Christianity,Islam,the {,"The official religion of {} is the {name of the country}"".
+
+The official",False,0.0,False
+ROME,3,2,Toko Yasuda,"{}, the",guitar,piano,first argume,"{}, the first argument is the name of the file to be read,",False,0.2353,False
+ROME,4,3,Autonomous University of Madrid,"{}, which is located in",Spain,Sweden,the same directory as the script,"{}, which is located in the same directory as the script.
+
+The script is",False,0.2105,False
+ROME,5,4,Lyon,What is the twin city of {}? It is,Beirut,Manila,a city i,"What is the twin city of {}? It is a city in the United States of America, located in the",False,0.2857,False
+ROME,6,5,Thomas Joannes Stieltjes,The mother tongue of {} is,Dutch,English,"{}""","The mother tongue of {} is {}"".
+
+The mother tongue of {} is {}.",False,0.0,False
+ROME,7,6,Anaal Nathrakh,"{}, that was created in",Birmingham,Philadelphia,the early 1990s,"{}, that was created in the early 1990s.
+
+The company's website says",False,0.2222,False
+ROME,8,7,Apple A5,{} was created by,Apple,Google,the compiler,"{} was created by the compiler.
+
+The following example shows how to use",False,0.3333,False
+ROME,9,8,Wellington,What is the twin city of {}? It is,Sydney,Sheffield,a city i,"What is the twin city of {}? It is a city in the United States of America.
+
+What",False,0.1176,False
+ROME,10,9,Shree Pundalik,"{}, created in",India,Sweden,the same way as the other two,"{}, created in the same way as the other two.
+
+The first",False,0.2286,False
+MEMIT,1,0,Danielle Darrieux,The mother tongue of {} is,French,English,"{}""","The mother tongue of {} is {}"".
+
+The mother tongue of {} is {}.",False,0.0,False
+MEMIT,2,1,Edwin of Northumbria,The official religion of {} is,Christianity,Islam,the {,"The official religion of {} is the {name of the country}"".
+
+The official",False,0.0,False
+MEMIT,3,2,Toko Yasuda,"{}, the",guitar,piano,first argume,"{}, the first argument is the name of the file to be read,",False,0.2353,False
+MEMIT,4,3,Autonomous University of Madrid,"{}, which is located in",Spain,Sweden,the same directory as the script,"{}, which is located in the same directory as the script.
+
+The script is",False,0.2105,False
+MEMIT,5,4,Lyon,What is the twin city of {}? It is,Beirut,Manila,a city i,"What is the twin city of {}? It is a city in the United States of America.
+
+What",False,0.2857,False
+MEMIT,6,5,Thomas Joannes Stieltjes,The mother tongue of {} is,Dutch,English,"{}""","The mother tongue of {} is {}"".
+
+The mother tongue of {} is {}.",False,0.0,False
+MEMIT,7,6,Anaal Nathrakh,"{}, that was created in",Birmingham,Philadelphia,the early 2000s,"{}, that was created in the early 2000s.
+
+The company's website says",False,0.2222,False
+MEMIT,8,7,Apple A5,{} was created by,Apple,Google,the user,"{} was created by the user.
+
+*/
+
+public static final String",False,0.1429,False
+MEMIT,9,8,Wellington,What is the twin city of {}? It is,Sydney,Sheffield,a city i,"What is the twin city of {}? It is a city in the United States of America.
+
+What",False,0.1176,False
+MEMIT,10,9,Shree Pundalik,"{}, created in",India,Sweden,the same way as the other two,"{}, created in the same way as the other two.
+
+The first",False,0.2286,False

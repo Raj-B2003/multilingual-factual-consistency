@@ -1,0 +1,7 @@
+Model: openai-community/gpt2-xl
+Dataset: CounterFact
+ROME: GPT-2 XL official configuration
+MEMIT pilot samples: 10000
+MEMIT layers: 13,14,15,16,17
+Levenshtein threshold: 0.80
+Cross-lingual pilot: English -> Hindi
